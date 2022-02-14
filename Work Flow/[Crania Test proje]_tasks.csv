@@ -1,0 +1,51 @@
+"Downloaded on",02/15/2022
+"Crania Test proje - UnexGames"
+"List of tasks"
+
+
+
+"Task id",Task,Details,Assigned,Starts,Due,Labels,"Time estimate(hh:mm)","Time logged(hh:mm)",Stage,Progress,"Created on","Created by","Completed on","Completed by","Main task id"
+017,"Karakter yapma","Karakteri olusturma","Cornet  Sandarsan",02/14/2022,02/15/2022,High,00:00,20:53,Complete,100,02/14/2022,"Cornet  Sandarsan",02/15/2022,"Cornet  Sandarsan",017
+057,"create project in ue 4.26"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",056
+018,"Urunleri Toplama"," ","Cornet  Sandarsan",02/15/2022,02/20/2022,,00:00,15:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",018
+060,"create levels and inputs"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",056
+019,"Create weapon logic"," ","Cornet  Sandarsan",02/16/2022,02/21/2022,,30:00,23:09,Complete,100,02/14/2022,"Cornet  Sandarsan",02/15/2022,"Cornet  Sandarsan",019
+058,"setting config for projec"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",056
+020,"Characteri movement"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+059,"create git hub project and upload"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",056
+021,"character inputs"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+022,"colect character mesh","need main character mesh
+need enemy character mesh",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",018
+023,"Colect weapon meshes"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",018
+024,"colect animations for character and weapon"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",018
+025,"collect other props meshes"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",018
+026,"adding animations to run"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+027,"adding animations to jump"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+028,"adding animations to crouch"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+029,"adding animations to sprint"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+030,"adding animations run/jump/crouch/sprint with weapon"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+031,"adjusting change poses from one anim to other"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+032,"create main weapon"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",019
+033,"create variables structure  and enum for create weapon type ant fire type"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",019
+034,"create fire type auto and single"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",019
+035,"create reload for weapon"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",019
+036,"set weapon for equip unequip"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",019
+037,"set weapon how one item for inventory"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",019
+038,"Create symple inventory"," ","Cornet  Sandarsan",,,,00:00,16:18,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
+039,"create main inventory system"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
+040,"create items for inventory"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
+041,"create interact system"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
+042,"create adding to inventory (Pick up) system"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
+043,"create diferent usable function for items from inventory"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
+044,"set weapon how item for inventory"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
+045,"set ammo how item from inventory"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
+046,"Other Gameplay Logic"," ","Cornet  Sandarsan",,,,00:00,19:37,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",046
+047,"setting player camera configuration"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",046
+048,"create enemy with health and damage sytem"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",046
+050,"setting blend hands for weapon aim"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/15/2022,"Cornet  Sandarsan",017
+051,"setting aiming system"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/15/2022,"Cornet  Sandarsan",017
+052,"set fire logic"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",019
+053,"set aiming logic"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/15/2022,"Cornet  Sandarsan",019
+054,"change camera view mode Fps/tps mode from input"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",017
+056,"Create project"," ","Cornet  Sandarsan",,,,00:00,16:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",056
+061,"create inventory widget"," ",,,,,00:00,00:00,Complete,100,02/14/2022,"Cornet  Sandarsan",02/14/2022,"Cornet  Sandarsan",038
